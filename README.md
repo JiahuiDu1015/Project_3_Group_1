@@ -9,6 +9,7 @@ Every employer uses different terms and words in job listings.
 
 # Data sources: 
 Seek: https://www.seek.com.au/jobs/in-All-Australia
+
 (permmision: Confidential Information
 Communications between you and the SEEK Group should be regarded as confidential unless we expressly provide otherwise. You may only use such confidential information for the purposes of performing your obligations or exercising your rights under these Terms. You must not disclose confidential information to any third party without our prior written consent. If you are unsure about whether any information that is communicated to you is confidential in nature, you should treat that information as confidential and confirm with us prior to disclosure of that information.(https://talent.seek.com.au/partners/terms-of-use/))
 
