@@ -1,17 +1,17 @@
 # Project_3_Group_1 
 # Job Market Insights: A Web Scraper for Data Analyst and Data Engineer Job Ads
 
+![image](https://github.com/user-attachments/assets/e1922105-6498-4cd4-8f51-3085c465fc77)
+
+
   # Project Proposal
 The project objective is to assist job seekers in finding a job. Scraped data will be used to analyse the most popular requirements for certain fields to help job seekers identify which jobs they are qualified for, or necessary skills they may need to obtain.
 
 Every employer uses different terms and words in job listings.
 
-WOULDN’T IT BE EASIER TO BE ABLE TO SEE WHAT ALL THE EMPLOYERS ARE ASKING FOR IN THE EMPLOYMENT FIELD?
+ - WOULDN’T IT BE EASIER TO BE ABLE TO SEE WHAT ALL THE EMPLOYERS ARE ASKING FOR IN THE EMPLOYMENT FIELD?
 
-AND IN WHAT REGIONS THEY ARE HIRING?
-
-![image](https://github.com/user-attachments/assets/f0332ddf-0f45-4cb1-b061-04d473b222b0)
-
+ - AND IN WHAT REGIONS THEY ARE HIRING?
 
 
 # Data sources: 
