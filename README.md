@@ -24,8 +24,6 @@ Below is the ERD graph.
 # Built With
 
   - Flask - The web framework used
-      
-  - Plotly.js - JavaScript library for creating interactive charts
   - HTML, CSS
   - Software: Visual Studio Code
   - Python
@@ -36,6 +34,13 @@ Below is the ERD graph.
   - SQL
       - pgAdmin 4
   - GitHub
+
+# ETL
+
+1 step
+open [Webscraper Clean -group 1.ipynb](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/ETL/Webscraper%20Clean%20-group%201.ipynb)
+
+
 
 # Conclusion
 The Job Search Helper has successfully demonstrated its utility as a comprehensive tool for job seekers. By leveraging a structured approach to organizing and analyzing job data, the project provides valuable insights and streamlines the job search process.
