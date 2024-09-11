@@ -73,6 +73,8 @@ open and run Flask - [app.py](https://github.com/JiahuiDu1015/Project_3_Group_1/
 5
 Running on http://127.0.0.1:5000
 
+![image](https://github.com/user-attachments/assets/c164247d-cf57-4687-a82c-474053f4eb28)
+
 
 # Conclusion
 The Job Search Helper has successfully demonstrated its utility as a comprehensive tool for job seekers. By leveraging a structured approach to organizing and analyzing job data, the project provides valuable insights and streamlines the job search process.
