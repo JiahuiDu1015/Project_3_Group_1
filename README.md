@@ -6,6 +6,13 @@ The project objective is to assist job seekers in finding a job. Scraped data wi
 
 Every employer uses different terms and words in job listings.
 
+WOULDN’T IT BE EASIER TO BE ABLE TO SEE WHAT ALL THE EMPLOYERS ARE ASKING FOR IN THE EMPLOYMENT FIELD?
+
+AND IN WHAT REGIONS THEY ARE HIRING?
+
+![image](https://github.com/user-attachments/assets/f0332ddf-0f45-4cb1-b061-04d473b222b0)
+
+
 
 # Data sources: 
 Seek: https://www.seek.com.au/jobs/in-All-Australia
