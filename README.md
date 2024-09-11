@@ -51,7 +51,7 @@ create tabels in SQL - [Project 3 Schema.sql](https://github.com/JiahuiDu1015/Pr
 
 2 
 open and run [Webscraper Clean -group 1.ipynb](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/ETL/Webscraper%20Clean%20-group%201.ipynb)
-please put your 
+please put your connection parameters with pg4admin
 
                        # Define the connection parameters
                               protocol = 'postgresql'
@@ -62,9 +62,10 @@ please put your
 
 
 3 
-open and run Flask
+open and run Flask - [app.py](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/app.py) 
 
-
+4 
+Running on http://127.0.0.1:5000
 
 
 # Conclusion
@@ -79,7 +80,7 @@ Seamless Database Integration: The integration with PostgreSQL allows for effici
 
 User-Friendly Insights: The project offers a clear view of job-related metrics and information, aiding users in making informed decisions. The ability to filter and analyze job data enhances the overall user experience by providing actionable insights.
 
-Future Enhancements:
+# Future Enhancements:
  - Advanced Analytics: Implementing more advanced analytics features, such as trend analysis and predictive modeling, could further enhance the tool’s capabilities and provide deeper insights into job market trends.
  - User Interface: Developing a user-friendly interface for the tool could make it more accessible to a broader audience, including those less familiar with programming and data analysis.
  - Integration with Job Boards: Connecting the tool with popular job boards and job search engines could automate data retrieval and improve the timeliness and relevance of job information.
