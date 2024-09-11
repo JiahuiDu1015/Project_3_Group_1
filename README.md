@@ -46,10 +46,16 @@ Below is the ERD graph.
 
 # STEPS
 
-1 
-create tabels in SQL - [Project 3 Schema.sql](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/SQL%20DB%20Schema/Project%203%20Schema.sql)
+1 clone the main repository 
+ 
+                  https://github.com/JiahuiDu1015/Project_3_Group_1.git
 
 2 
+create tabels in SQL - [Project 3 Schema.sql](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/SQL%20DB%20Schema/Project%203%20Schema.sql)
+
+ Why SQL? - SQL databases (like PostgreSQL, MySQL, and SQL Server) use a structured schema with predefined tables, columns, and data types. SQL databases enforce data integrity through constraints (e.g., primary keys, foreign keys) and normalization. This means data is organized to minimize redundancy and improve consistency.
+
+3
 open and run [Webscraper Clean -group 1.ipynb](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/ETL/Webscraper%20Clean%20-group%201.ipynb)
 please put your connection parameters with pg4admin
 
@@ -61,10 +67,10 @@ please put your connection parameters with pg4admin
                               port = 5432
 
 
-3 
+4 
 open and run Flask - [app.py](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/app.py) 
 
-4 
+5
 Running on http://127.0.0.1:5000
 
 
