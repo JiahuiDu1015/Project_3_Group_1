@@ -12,7 +12,8 @@ Seek: https://www.seek.com.au/jobs/in-All-Australia
 
 # Data Ethics
 (permmision: Confidential Information
-Communications between you and the SEEK Group should be regarded as confidential unless we expressly provide otherwise. You may only use such confidential information for the purposes of performing your obligations or exercising your rights under these Terms. You must not disclose confidential information to any third party without our prior written consent. If you are unsure about whether any information that is communicated to you is confidential in nature, you should treat that information as confidential and confirm with us prior to disclosure of that information.(https://talent.seek.com.au/partners/terms-of-use/))
+Communications between you and the SEEK Group should be regarded as confidential unless we expressly provide otherwise. You may only use such confidential information for the purposes of performing your obligations or exercising your rights under these Terms. You must not disclose confidential information to any third party without our prior written consent. If you are unsure about whether any information that is communicated to you is confidential in nature, you should treat that information as confidential and confirm with us prior to disclosure of that information.(https://talent.seek.com.au/partners/terms-of-use/)) 
+Publicly Available Information: If the company's name is mentioned in publicly accessible data or on public websites, it is generally not considered confidential. For instance, job listings or company profiles that are openly available online do not typically fall under confidentiality restrictions.
 
 # The process
 Once we had our data, we utilized a jupyter notebook to clean our data and export it as csv files to use in pgAdmin 4. 
@@ -36,15 +37,24 @@ Below is the ERD graph.
       - pgAdmin 4
   - GitHub
 
-# ETL
+# STEPS
 
-1 step
+1 
 create tabels in SQL - [Project 3 Schema.sql](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/SQL%20DB%20Schema/Project%203%20Schema.sql)
 
-2 step
+2 
 open and run [Webscraper Clean -group 1.ipynb](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/ETL/Webscraper%20Clean%20-group%201.ipynb)
+please put your 
 
-3 step 
+                       # Define the connection parameters
+                              protocol = 'postgresql'
+                              username = 'postgres'
+                              password = "password"
+                              host = 'localhost'
+                              port = 5432
+
+
+3 
 open and run Flask
 
 
