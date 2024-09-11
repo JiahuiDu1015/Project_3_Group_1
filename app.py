@@ -21,7 +21,7 @@ def get_db_connection():
     conn = psycopg2.connect(host='localhost',
                             database='Project_3_1',
                             user='postgres',
-                            password="Jane2801kei!")
+                            password="your Password")
     return conn
 
 
