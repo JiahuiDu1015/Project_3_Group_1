@@ -40,8 +40,8 @@ Below is the ERD graph.
   - Python
       - Beautiful Soup
       - requests
-      - psycopg2 (not covered in course)
-      - wordcloud (not covered in course)
+      - psycopg2 (not covered in course) (to interack with postgreSQL DB in Python)
+      - wordcloud (not covered in course) -(for make new plots)
   - SQL
       - pgAdmin 4
   - GitHub
