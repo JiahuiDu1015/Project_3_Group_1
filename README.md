@@ -19,6 +19,7 @@ Seek: https://www.seek.com.au/jobs/in-All-Australia
 
 # Data Ethics
 Seek: https://www.seek.com.au/jobs/in-All-Australia (permission: Confidential Information Communications between you and the SEEK Group should be regarded as confidential unless we expressly provide otherwise. You may only use such confidential information to perform your obligations or exercise your rights under these Terms. You must not disclose confidential information to any third party without our prior written consent. (https://talent.seek.com.au/partners/terms-of-use/))
+
 Seek grants a limited, terminable, non-exclusive right to access and use websites and apps only for personal use and/or employment purposes. Seek does not permit the use of data mining, robots, screen scraping, or similar automated data gathering, extraction or publication tools on websites and apps (including without limitation to establish, maintain, advance or reproduce the information contained on websites and apps on user own website or in any other publication), except with prior written consent
 
 * Noted: This project focuses on practising technical skills related to the ETL process, integrating data extraction, and utilizing Flask. Access is restricted to project members and central graders, and is not available to the general public.
