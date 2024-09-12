@@ -73,7 +73,7 @@ please put your connection parameters with pg4admin
 open and run Flask - [app.py](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/app.py) 
 
 5
-Running on http://127.0.0.1:5000
+Running your -  http://127.0.0.1:....
 
 ![image](https://github.com/user-attachments/assets/c164247d-cf57-4687-a82c-474053f4eb28)
 
