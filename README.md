@@ -41,7 +41,7 @@ Below is the ERD graph.
       - Beautiful Soup
       - requests
       - psycopg2 (not covered in course)
-      - os (not covered in course)
+      - wordcloud (not covered in course)
   - SQL
       - pgAdmin 4
   - GitHub
@@ -72,8 +72,11 @@ please put your connection parameters with pg4admin
 4 
 open and run Flask - [app.py](https://github.com/JiahuiDu1015/Project_3_Group_1/blob/main/app.py) 
 
+![image](https://github.com/user-attachments/assets/540a0cec-290f-4e24-9989-509304fa86d6)
+
+
 5
-Running your -  http://127.0.0.1:....
+after running your -  http://127.0.0.1:....
 
 ![image](https://github.com/user-attachments/assets/c164247d-cf57-4687-a82c-474053f4eb28)
 
@@ -97,10 +100,18 @@ User-Friendly Insights: The project offers a clear view of job-related metrics a
 
 Overall, The Job Search Helper has laid a strong foundation for a tool that simplifies and improves the job search experience. By continuing to build on its features and capabilities, the project holds the potential to become an indispensable resource for job seekers.
 
-# References
-code from ChatGPT
+# References sources what we use
+- https://www.postgresql.org/docs (help for bild connectin between postgresql and python)
+- [https://regex101.com/ ](https://www.w3schools.com/python/python_regex.asp) (help work with regex)
 
-                   # Set header to circumvent webscraping blocker
-                        headers = {
-                         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+# References 
+cod from https://www.postgresql.org/docs/current/libpq-connect.html
 
+                         # Define the connection parameters
+                              protocol = 'postgresql'
+                              username = 'postgres'
+                              password = "password"
+                              host = 'localhost'
+                              port = 5432
+                       # Create the connection string
+                       rds_connection_string = f'{protocol}://{username}:{password}@{host}:{port}/{database_name}'
