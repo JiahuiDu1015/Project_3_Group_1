@@ -18,11 +18,11 @@ Every employer uses different terms and words in job listings.
 Seek: https://www.seek.com.au/jobs/in-All-Australia
 
 # Data Ethics
-(permmision: Confidential Information
-Communications between you and the SEEK Group should be regarded as confidential unless we expressly provide otherwise. You may only use such confidential information for the purposes of performing your obligations or exercising your rights under these Terms. You must not disclose confidential information to any third party without our prior written consent. If you are unsure about whether any information that is communicated to you is confidential in nature, you should treat that information as confidential and confirm with us prior to disclosure of that information.(https://talent.seek.com.au/partners/terms-of-use/)) 
-Publicly Available Information: If the company's name is mentioned in publicly accessible data or on public websites, it is generally not considered confidential. For instance, job listings or company profiles that are openly available online do not typically fall under confidentiality restrictions.
+Seek: https://www.seek.com.au/jobs/in-All-Australia (permission: Confidential Information Communications between you and the SEEK Group should be regarded as confidential unless we expressly provide otherwise. You may only use such confidential information to perform your obligations or exercise your rights under these Terms. You must not disclose confidential information to any third party without our prior written consent. (https://talent.seek.com.au/partners/terms-of-use/))
+Seek grants a limited, terminable, non-exclusive right to access and use websites and apps only for personal use and/or employment purposes. Seek does not permit the use of data mining, robots, screen scraping, or similar automated data gathering, extraction or publication tools on websites and apps (including without limitation to establish, maintain, advance or reproduce the information contained on websites and apps on user own website or in any other publication), except with prior written consent
 
-We have prior written consent for extrat data from seek.com, but we can't upload this latter in publick server like Github.(since it provides our confidential information)
+* Noted: This project focuses on practising technical skills related to the ETL process, integrating data extraction, and utilizing Flask. Access is restricted to project members and central graders, and is not available to the general public.
+
 
 # The process
 Once we had our data, we utilized a jupyter notebook to clean our data and export it as csv files to use in pgAdmin 4. 
